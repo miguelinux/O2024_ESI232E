@@ -13,9 +13,11 @@ for linea in archivo:
 
     if pokemon.isdigit():
         # lista[0] guarda el número del pokemon
-        print(lista[0])
+        # >>> aqui falta código
+        print(lista[0])  # esta línea se debe de quitar
     else:
         # lista[1] guarda el nombre del pokemon
-        print(lista[1])
+        # >>> aqui falta código
+        print(lista[1])  # esta línea se debe de quitar
 
 
