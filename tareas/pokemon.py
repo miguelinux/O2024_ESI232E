@@ -15,9 +15,11 @@ for linea in archivo:
         # lista[0] guarda el número del pokemon
         # >>> aqui falta código
         print(lista[0])  # esta línea se debe de quitar
+        break
     else:
         # lista[1] guarda el nombre del pokemon
         # >>> aqui falta código
         print(lista[1])  # esta línea se debe de quitar
-
+else:
+    print("No se encontro el Pokemon")
 
