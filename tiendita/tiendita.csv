@@ -1,0 +1,20 @@
+Producto,Precio,Stock,Categoria
+salchicha,30,20,carnes frias
+jamon,20,25,carnes frias
+salami,25.5,30,carnes frias
+peperoni,35.5,35,carnes frias
+manzana,30,50,frutas y verduras
+naranja,30,50,frutas y verduras
+pera,20.5,45,frutas y verduras
+lechuga,10,40,frutas y verduras
+jitomate,20,32,frutas y verduras
+pepino,15,35,frutas y verduras
+coca,30,20,refrescos
+sprite,32,30,refrescos
+fanta,35,35,refrescos
+leche,20,50,lacteos
+queso,15,40,lacteos
+crema,17,35,lacteos
+papas,10,60,sabritas
+doritos,20,50,sabritas
+chetos,15,55,sabritas
